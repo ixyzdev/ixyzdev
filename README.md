@@ -1,54 +1,39 @@
-<h1 align="center">👋 ¡Hola! Soy Alejandro Díaz</h1>
-
-![Banner](https://github.com/IxyzDev/IxyzDev/blob/main/img/Banner.png?raw=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Alejandro%20D%C3%ADaz&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Ingenier%C3%ADa%20Civil%20Inform%C3%A1tica%20%E2%80%A2%20Fullstack%20Developer&descSize=18&descAlignY=64" width="100%"/>
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso, apasionado por la tecnología y el desarrollo de software. Me encanta crear soluciones innovadoras tanto en el front-end como en el back-end, y tengo experiencia en proyectos reales de impacto social y educativo.
+Estudiante de **Ingeniería Civil Informática** en la Universidad de Valparaíso y desarrollador **Fullstack**. Construyo soluciones con impacto social y educativo, del front-end al back-end.
 
-🔗 Revisa mis gists favoritos: [gist.github.com/IxyzDev](https://gist.github.com/IxyzDev)
+🔗 [Gists](https://gist.github.com/IxyzDev) · 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-diaz-8a8221243/)
 
-### 🚀 Proyectos Destacados
+### 📊 Datos de interés
 
-- **[BioQX 3D Slicer](https://github.com/BioQX-CL/bioqx-3d-slicer)**  
-  Plataforma de visualización 3D médica interactiva para planificación quirúrgica. Utiliza la biblioteca **O3DViewer** para renderizar modelos anatómicos en tiempo real con enfoque educativo y clínico.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IxyzDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IxyzDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-- **[Schemify NestJS](https://github.com/Schemify/schemify-nestjs)**  
-  Backend modular construido con **NestJS**, usando arquitectura **hexagonal (Ports & Adapters)** y principios **DDD**. Diseñado como microservicios reutilizables para acelerar el desarrollo de nuevas soluciones empresariales.
+### 🧭 Historial
 
-- **[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)**  
-  Proyecto de realidad virtual desarrollado con **Unity** y **Oculus Quest 2** en el FabLab UV. Busca explorar nuevas formas de interacción educativa e inmersiva.
+**🧬 [BioQX 3D Slicer](https://github.com/BioQX-CL/bioqx-3d-slicer)** — _[BioQX-CL](https://github.com/BioQX-CL)_
+> Plataforma de visualización 3D médica interactiva para planificación quirúrgica, con enfoque educativo y clínico.
+>
+> `O3DViewer` · `Visualización 3D` · `Python`
 
-### 🏢 Organizaciones
+**🧱 [Schemify NestJS](https://github.com/Schemify/schemify-nestjs)** — _[Schemify](https://github.com/Schemify)_
+> Backend modular de microservicios reutilizables para acelerar el desarrollo de soluciones empresariales.
+>
+> `NestJS` · `Arquitectura Hexagonal` · `DDD` · `TypeScript`
 
-<!-- ORGANIZATIONS_START -->
-- [NewHorizon-AI](https://github.com/NewHorizon-AI)
-- [Consolidado-Universidad](https://github.com/Consolidado-Universidad)
-- [Reiniciatec](https://github.com/Reiniciatec)
-- [FabLab-Projects](https://github.com/FabLab-Projects)
-- [Talleres-FabLab](https://github.com/Talleres-FabLab)
-- [ixyzdev-templates](https://github.com/ixyzdev-templates)
-- [BioQX-CL](https://github.com/BioQX-CL)
-- [Schemify](https://github.com/Schemify)
-<!-- ORGANIZATIONS_END -->
-
-### 🧠 Habilidades Técnicas
-
-- **Lenguajes**: JavaScript/TypeScript, Python, C++
-- **Frameworks**: React, Next.js, Django, Express
-- **Otros**: Git, Unity, Figma, Postgres, Docker
-
-### 📱 Áreas de Enfoque
-
-- Desarrollo Web Fullstack  
-- Ciencia de Datos  
-- Realidad Virtual (VR)  
-- Robótica Educativa
+**🕶️ [Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)** — _[FabLab UV](https://github.com/FabLab-Projects)_
+> Experiencia de realidad virtual que explora nuevas formas de interacción educativa e inmersiva.
+>
+> `Unity` · `Oculus Quest 2` · `C#`
 
 ### 🌐 Idiomas
-- 🇪🇸 Español (Nativo)
-- 🇬🇧 Inglés (Intermedio/Avanzado)
 
-📬 Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/alejandro-diaz-8a8221243/) o en GitHub directamente.
+🇪🇸 Español (Nativo) · 🇬🇧 Inglés (Intermedio/Avanzado)
 
-¡Gracias por visitar mi perfil! Para más información sobre mis proyectos y experiencias, sígueme aquí en GitHub.
+---
+
+<p align="center"><i>¡Gracias por visitar mi perfil! 👋</i></p>

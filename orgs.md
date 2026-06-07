@@ -1,8 +1,0 @@
-- [NewHorizon-AI](https://github.com/NewHorizon-AI)
-- [Consolidado-Universidad](https://github.com/Consolidado-Universidad)
-- [Reiniciatec](https://github.com/Reiniciatec)
-- [FabLab-Projects](https://github.com/FabLab-Projects)
-- [Talleres-FabLab](https://github.com/Talleres-FabLab)
-- [ixyzdev-templates](https://github.com/ixyzdev-templates)
-- [BioQX-CL](https://github.com/BioQX-CL)
-- [Schemify](https://github.com/Schemify)
