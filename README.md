@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=230&section=header&text=Alejandro%20D%C3%ADaz&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://github.com/IxyzDev/IxyzDev/blob/main/img/header-banner.png?raw=true" width="100%" alt="Alejandro Díaz" />
 
 <p align="center"><i>Computer Engineer • DevOps Engineer</i></p>
 
