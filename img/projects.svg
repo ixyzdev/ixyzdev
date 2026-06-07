@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="900" height="430" fill="#000000"/>
+
+  <!-- ============ Card 1: BioQX 3D Slicer ============ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <rect x="20" y="20" width="860" height="120" rx="14" fill="#121210" stroke="#2E2E28" stroke-width="1"/>
+    <rect x="22" y="38" width="3" height="84" rx="1.5" fill="#D1D920">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="44" y="54" fill="#ffffff" font-size="21" font-weight="700">BioQX 3D Slicer</text>
+    <text x="860" y="54" fill="#918362" font-size="14" text-anchor="end">@BioQX-CL</text>
+    <text x="44" y="82" fill="#B5B2A8" font-size="14">Interactive 3D medical visualization platform for surgical planning.</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="12">
+      <rect x="44"  y="100" width="86" height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="87"  y="116" fill="#D1D920" text-anchor="middle">O3DViewer</text>
+      <rect x="138" y="100" width="64" height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="170" y="116" fill="#D1D920" text-anchor="middle">Python</text>
+    </g>
+  </g>
+
+  <!-- ============ Card 2: Schemify NestJS ============ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.6s" begin="0.35s" fill="freeze"/>
+    <rect x="20" y="155" width="860" height="120" rx="14" fill="#121210" stroke="#2E2E28" stroke-width="1"/>
+    <rect x="22" y="173" width="3" height="84" rx="1.5" fill="#D1D920">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="44" y="189" fill="#ffffff" font-size="21" font-weight="700">Schemify NestJS</text>
+    <text x="860" y="189" fill="#918362" font-size="14" text-anchor="end">@Schemify</text>
+    <text x="44" y="217" fill="#B5B2A8" font-size="14">Modular microservices backend of reusable enterprise services.</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="12">
+      <rect x="44"  y="235" width="64"  height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="76"  y="251" fill="#D1D920" text-anchor="middle">NestJS</text>
+      <rect x="116" y="235" width="180" height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="206" y="251" fill="#D1D920" text-anchor="middle">Hexagonal Architecture</text>
+      <rect x="304" y="235" width="44"  height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="326" y="251" fill="#D1D920" text-anchor="middle">DDD</text>
+      <rect x="356" y="235" width="92"  height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="402" y="251" fill="#D1D920" text-anchor="middle">TypeScript</text>
+    </g>
+  </g>
+
+  <!-- ============ Card 3: Beyond The Scope ============ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.6s" begin="0.6s" fill="freeze"/>
+    <rect x="20" y="290" width="860" height="120" rx="14" fill="#121210" stroke="#2E2E28" stroke-width="1"/>
+    <rect x="22" y="308" width="3" height="84" rx="1.5" fill="#D1D920">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="44" y="324" fill="#ffffff" font-size="21" font-weight="700">Beyond The Scope</text>
+    <text x="860" y="324" fill="#918362" font-size="14" text-anchor="end">@FabLab UV</text>
+    <text x="44" y="352" fill="#B5B2A8" font-size="14">Virtual reality experience for educational, immersive interaction.</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="12">
+      <rect x="44"  y="370" width="56"  height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="72"  y="386" fill="#D1D920" text-anchor="middle">Unity</text>
+      <rect x="108" y="370" width="122" height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="169" y="386" fill="#D1D920" text-anchor="middle">Oculus Quest 2</text>
+      <rect x="238" y="370" width="36"  height="24" rx="12" fill="#D1D920" fill-opacity="0.10" stroke="#D1D920" stroke-opacity="0.5"/>
+      <text x="256" y="386" fill="#D1D920" text-anchor="middle">C#</text>
+    </g>
+  </g>
+</svg>

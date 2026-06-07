@@ -23,20 +23,9 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
 
 ### 🕐
 
-**[BioQX 3D Slicer](https://github.com/BioQX-CL/bioqx-3d-slicer)** — _[BioQX-CL](https://github.com/BioQX-CL)_
-> Interactive 3D medical visualization platform for surgical planning, with an educational and clinical focus.
->
-> `O3DViewer` · `3D Visualization` · `Python`
-
-**[Schemify NestJS](https://github.com/Schemify/schemify-nestjs)** — _[Schemify](https://github.com/Schemify)_
-> Modular microservices backend of reusable services to accelerate the development of enterprise solutions.
->
-> `NestJS` · `Hexagonal Architecture` · `DDD` · `TypeScript`
-
-**[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)** — _[FabLab UV](https://github.com/FabLab-Projects)_
-> Virtual reality experience exploring new forms of educational and immersive interaction.
->
-> `Unity` · `Oculus Quest 2` · `C#`
+<p align="center">
+  <a href="https://github.com/BioQX-CL/bioqx-3d-slicer"><img src="https://github.com/IxyzDev/IxyzDev/blob/main/img/projects.svg?raw=true" width="100%" alt="Projects" /></a>
+</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=IxyzDev&label=Visits&color=6f42c1&style=for-the-badge" alt="Profile visits" />
