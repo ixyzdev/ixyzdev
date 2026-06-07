@@ -4,7 +4,7 @@
 
 Computer Engineer, currently working in a DevOps environment. I love working across infrastructure, development and application planning, using AI to automate processes by studying workflows. I'm passionate about IT service management.
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,nestjs,django,postgres,docker,unity,figma" alt="Tech stack" />
   </a>
