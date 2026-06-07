@@ -9,8 +9,25 @@ Estudiante de **Ingeniería Civil Informática** en la Universidad de Valparaís
 ### 📊 Datos de interés
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IxyzDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IxyzDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://komarev.com/ghpvc/?username=IxyzDev&label=Visitas&color=6f42c1&style=for-the-badge" alt="Visitas al perfil" />
+  <a href="https://github.com/IxyzDev?tab=followers"><img src="https://img.shields.io/github/followers/IxyzDev?label=Seguidores&style=for-the-badge&logo=github&color=6f42c1&labelColor=0d1117" alt="Seguidores" /></a>
+</p>
+
+**🛠️ Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### 🧭 Historial
