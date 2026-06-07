@@ -1,21 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Alejandro%20D%C3%ADaz&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Ingenier%C3%ADa%20Civil%20Inform%C3%A1tica%20%E2%80%A2%20Fullstack%20Developer&descSize=18&descAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Alejandro%20D%C3%ADaz&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%E2%80%A2%20DevOps%20Engineer&descSize=18&descAlignY=64" width="100%"/>
 
-### 👨‍💻 Sobre mí
-
-Estudiante de **Ingeniería Civil Informática** en la Universidad de Valparaíso y desarrollador **Fullstack**. Construyo soluciones con impacto social y educativo, del front-end al back-end.
+Computer Engineer, currently working in a DevOps environment. I love working across infrastructure, development and application planning, using AI to automate processes by studying workflows. I'm passionate about IT service management.
 
 🔗 [Gists](https://gist.github.com/IxyzDev) · 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-diaz-8a8221243/)
 
-### 📊 Datos de interés
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IxyzDev&label=Visitas&color=6f42c1&style=for-the-badge" alt="Visitas al perfil" />
-  <a href="https://github.com/IxyzDev?tab=followers"><img src="https://img.shields.io/github/followers/IxyzDev?label=Seguidores&style=for-the-badge&logo=github&color=6f42c1&labelColor=0d1117" alt="Seguidores" /></a>
-</p>
-
-**🛠️ Stack**
-
-<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,27 +19,24 @@ Estudiante de **Ingeniería Civil Informática** en la Universidad de Valparaís
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🧭 Historial
+### 🕐
 
-**🧬 [BioQX 3D Slicer](https://github.com/BioQX-CL/bioqx-3d-slicer)** — _[BioQX-CL](https://github.com/BioQX-CL)_
-> Plataforma de visualización 3D médica interactiva para planificación quirúrgica, con enfoque educativo y clínico.
+**[BioQX 3D Slicer](https://github.com/BioQX-CL/bioqx-3d-slicer)** — _[BioQX-CL](https://github.com/BioQX-CL)_
+> Interactive 3D medical visualization platform for surgical planning, with an educational and clinical focus.
 >
-> `O3DViewer` · `Visualización 3D` · `Python`
+> `O3DViewer` · `3D Visualization` · `Python`
 
-**🧱 [Schemify NestJS](https://github.com/Schemify/schemify-nestjs)** — _[Schemify](https://github.com/Schemify)_
-> Backend modular de microservicios reutilizables para acelerar el desarrollo de soluciones empresariales.
+**[Schemify NestJS](https://github.com/Schemify/schemify-nestjs)** — _[Schemify](https://github.com/Schemify)_
+> Modular microservices backend of reusable services to accelerate the development of enterprise solutions.
 >
-> `NestJS` · `Arquitectura Hexagonal` · `DDD` · `TypeScript`
+> `NestJS` · `Hexagonal Architecture` · `DDD` · `TypeScript`
 
-**🕶️ [Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)** — _[FabLab UV](https://github.com/FabLab-Projects)_
-> Experiencia de realidad virtual que explora nuevas formas de interacción educativa e inmersiva.
+**[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)** — _[FabLab UV](https://github.com/FabLab-Projects)_
+> Virtual reality experience exploring new forms of educational and immersive interaction.
 >
 > `Unity` · `Oculus Quest 2` · `C#`
 
-### 🌐 Idiomas
-
-🇪🇸 Español (Nativo) · 🇬🇧 Inglés (Intermedio/Avanzado)
-
----
-
-<p align="center"><i>¡Gracias por visitar mi perfil! 👋</i></p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=IxyzDev&label=Visits&color=6f42c1&style=for-the-badge" alt="Profile visits" />
+  <a href="https://github.com/IxyzDev?tab=followers"><img src="https://img.shields.io/github/followers/IxyzDev?label=Followers&style=for-the-badge&logo=github&color=6f42c1&labelColor=0d1117" alt="Followers" /></a>
+</p>
