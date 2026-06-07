@@ -6,7 +6,7 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,cpp,nextjs,nestjs,django,postgres,docker,aws,terraform,bash,unity,figma,obsidian" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,py,cpp,bash,nextjs,nestjs,django,postgres,docker,aws,terraform,unity,figma,obsidian" alt="Tech stack" />
   </a>
 </p>
 
