@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Alejandro%20D%C3%ADaz&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%E2%80%A2%20DevOps%20Engineer&descSize=18&descAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44443E,30:615A4A,60:716C64,100:918362&height=230&section=header&text=Alejandro%20D%C3%ADaz&fontSize=54&fontColor=D1D920&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D1D920&center=true&vCenter=true&width=650&lines=Computer+Engineer;DevOps+Engineer;AI-driven+process+automation;IT+Service+Management" alt="Typing SVG" />
+</p>
 
 Computer Engineer, currently working in a DevOps environment. I love working across infrastructure, development and application planning, using AI to automate processes by studying workflows. I'm passionate about IT service management.
 
