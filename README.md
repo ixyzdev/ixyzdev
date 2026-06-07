@@ -15,8 +15,6 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
   <a href="https://www.linkedin.com/in/alejandro-diaz-8a8221243/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
 </p>
 
-### 💻 Tech & Coding Stats
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -25,11 +23,6 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
 <p align="center">
   <a href="https://github.com/BioQX-CL/bioqx-3d-slicer"><img src="https://github.com/IxyzDev/IxyzDev/blob/main/img/projects.svg?raw=true" width="100%" alt="Projects" /></a>
 </p>
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=IxyzDev&label=Visits&color=6f42c1&style=for-the-badge" alt="Profile visits" />
