@@ -26,11 +26,14 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+noti                     2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.57 % 
+ixyzdev                  1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   33.49 % 
+noti-client              53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Proyectos                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 ```
 
 
- Last Updated on 07/06/2026 23:09:41 UTC
+ Last Updated on 08/06/2026 20:39:47 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
