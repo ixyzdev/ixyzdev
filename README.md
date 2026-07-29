@@ -22,6 +22,8 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2024%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,7 +38,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 20:00:18 UTC
+ Last Updated on 29/07/2026 19:52:25 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
