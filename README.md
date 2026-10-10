@@ -1,12 +1,11 @@
-<img src="https://github.com/IxyzDev/IxyzDev/blob/main/img/header-banner.png?raw=true" width="100%" alt="Alejandro Díaz" />
 
-<p align="center"><i>Computer Engineer • DevOps Engineer</i></p>
+<p align="center"><i>Computer Engineer • DevOps Jr Engineer</i></p>
 
 Computer Engineer, currently working in a DevOps environment. I love working across infrastructure, development and application planning, using AI to automate processes by studying workflows. I'm passionate about IT service management.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,cpp,bash,nextjs,nestjs,django,postgres,docker,aws,terraform,unity,figma,obsidian" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=bash,postgres,docker,aws,obsidian" alt="Tech stack" />
   </a>
 </p>
 
@@ -17,12 +16,12 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
 
 ### Projects
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/BioQX-CL/bioqx-3d-slicer"><img src="https://github.com/IxyzDev/IxyzDev/blob/main/img/projects.svg?raw=true" width="100%" alt="Projects" /></a>
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
@@ -30,10 +29,10 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/06/2026 23:09:41 UTC
+ Last Updated on 07/06/2026 23:09:41 UTC -->
 <!--END_SECTION:waka-->
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://komarev.com/ghpvc/?username=IxyzDev&label=Visits&color=6f42c1&style=for-the-badge" alt="Profile visits" />
   <a href="https://github.com/IxyzDev?tab=followers"><img src="https://img.shields.io/github/followers/IxyzDev?label=Followers&style=for-the-badge&logo=github&color=6f42c1&labelColor=0d1117" alt="Followers" /></a>
-</p>
+</p> -->
