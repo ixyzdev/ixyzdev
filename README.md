@@ -9,8 +9,3 @@ Computer Engineer, currently working in a DevOps environment. I love working acr
   </a>
 </p>
 
-<p align="left">
-  <a href="https://gist.github.com/IxyzDev"><img src="https://skillicons.dev/icons?i=github" height="33" alt="Gists" /></a>
-  <a href="https://www.linkedin.com/in/alejandro-diaz-8a8221243/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-</p>
-
